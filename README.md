@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @7pixel-cl
-- 👀 I’m interested in Become a great Web Developer.
-- 🌱 I’m currently learning with ZTM(https://academy.zerotomastery.io/courses/697434/lectures/12682794)
-- 💞️ I’m looking to collaborate on Open Source Projects, with a focus on React
-- 📫 How to reach me ...
+👋 Hi, I’m Marco Alvarado
 
-<!---
-7pixel-cl/7pixel-cl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate and versatile Software Engineer with over 8 years of experience in the field of technology and software development. Currently, I work as a Fullstack Developer, focusing on innovative and challenging projects using technologies such as React, TypeScript, and PHP.
+
+Throughout my career, I have acquired skills in various tools and programming languages, including COBOL, WordPress, Divi, Mixpanel, and SQL. This wide range of expertise has allowed me to successfully adapt to different environments and professional challenges.
+
+My proactive and growth-oriented approach has led me to gain experience in remote work, collaborating with global and multidisciplinary teams. This has resulted in the creation of innovative and high-impact software solutions, always striving to make a difference and add value to each project I participate in.
+
+My greatest motivation is to tackle new challenges that enrich my experience and allow me to continue growing as a professional. I consider myself the ideal candidate for projects that require adaptive skills, commitment, and innovation, as I am always willing to face challenges that help me develop new skills and knowledge.
+
+If you are looking for a collaborator who is ready to take on challenges and provide creative solutions, please do not hesitate to contact me. I am always open to exploring opportunities that allow me to continue evolving as a standout professional in the software development industry.
