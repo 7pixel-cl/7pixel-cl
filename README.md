@@ -10,6 +10,3 @@ My greatest motivation is to tackle new challenges that enrich my experience and
 
 If you are looking for a collaborator who is ready to take on challenges and provide creative solutions, please do not hesitate to contact me. I am always open to exploring opportunities that allow me to continue evolving as a standout professional in the software development industry.
 
-SEO Project List:
-
-https://legionextranjera.es/
