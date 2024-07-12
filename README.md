@@ -1,16 +1,20 @@
-# Hola 👋, soy [Nombre del profesional]
+# 👋 Hi, I’m Marco Alvarado
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+I am a passionate and versatile Software Engineer with over 8 years of experience in the field of technology and software development. Currently, I work as a Fullstack Developer, focusing on innovative and challenging projects using technologies such as React, TypeScript, and PHP.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+Throughout my career, I have acquired skills in various tools and programming languages, including COBOL, WordPress, Divi, Mixpanel, and SQL. This wide range of expertise has allowed me to successfully adapt to different environments and professional challenges.
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+My proactive and growth-oriented approach has led me to gain experience in remote work, collaborating with global and multidisciplinary teams. This has resulted in the creation of innovative and high-impact software solutions, always striving to make a difference and add value to each project I participate in.
+
+My greatest motivation is to tackle new challenges that enrich my experience and allow me to continue growing as a professional. I consider myself the ideal candidate for projects that require adaptive skills, commitment, and innovation, as I am always willing to face challenges that help me develop new skills and knowledge.
+
+If you are looking for a collaborator who is ready to take on challenges and provide creative solutions, please do not hesitate to contact me. I am always open to exploring opportunities that allow me to continue evolving as a standout professional in the software development industry.
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<example@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+- Puedes contactarme a través de mi correo electrónico: **<marco.alvarado.t@gmail.com>**
+- Puedes contactarme a través de **[Linkedin]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/marcoalvaradot/))**
+- Puedes visitar mi **[sitio web](https://agenciacl.tech)**
 
 ### 🎨 Frontend
 
