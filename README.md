@@ -102,7 +102,6 @@ type Marco = {
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=7pixel-cl&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7pixel-cl&layout=compact&hide_border=true&theme=transparent">
 <br/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=7pixel-cl&theme=transparent&hide_border=true">
 </div>
 
 ---
