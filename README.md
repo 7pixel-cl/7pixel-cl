@@ -1,33 +1,132 @@
-# 👋 Hi, I’m Marco Alvarado
+<!-- Profile README — Marco Alvarado -->
+<div align="center">
 
-I am a passionate and versatile Software Engineer with over 8 years of experience in the field of technology and software development. Currently, I work as a Fullstack Developer, focusing on innovative and challenging projects using technologies such as React, TypeScript, and PHP.
+<h1>👋 Hola, soy Marco — Full-Stack Engineer</h1>
 
-Throughout my career, I have acquired skills in various tools and programming languages, including COBOL, WordPress, Divi, Mixpanel, and SQL. This wide range of expertise has allowed me to successfully adapt to different environments and professional challenges.
+<p>
+<strong>Next.js + TypeScript + AI workflows</strong><br/>
+I design & ship SaaS that feel fast, human, and scalable.
+</p>
 
-My proactive and growth-oriented approach has led me to gain experience in remote work, collaborating with global and multidisciplinary teams. This has resulted in the creation of innovative and high-impact software solutions, always striving to make a difference and add value to each project I participate in.
+<a href="https://www.linkedin.com/in/marcoalvaradot">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marco%20Alvarado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:marco.alvarado.t@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Write%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://marqit.dev">
+  <img alt="Website" src="https://img.shields.io/badge/Website-marqit.dev-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-My greatest motivation is to tackle new challenges that enrich my experience and allow me to continue growing as a professional. I consider myself the ideal candidate for projects that require adaptive skills, commitment, and innovation, as I am always willing to face challenges that help me develop new skills and knowledge.
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=4F46E5" alt="profile views"/>
 
-If you are looking for a collaborator who is ready to take on challenges and provide creative solutions, please do not hesitate to contact me. I am always open to exploring opportunities that allow me to continue evolving as a standout professional in the software development industry.
+</div>
 
-## 📫 Contacto
+---
 
-- Puedes contactarme a través de mi correo electrónico: **<marco.alvarado.t@gmail.com>**
-- Puedes contactarme a través de **[Linkedin]([https://www.linkedin.com/in/example](https://www.linkedin.com/in/marcoalvaradot/))**
-- Puedes visitar mi **[sitio web](https://agenciacl.tech)**
+## 🔎 TL;DR
+- 🧠 **10+ yrs** building for **finance, education, e-commerce & SaaS**  
+- ⚡ **Next.js/React + Prisma + Supabase + Stripe** for multi-tenant platforms  
+- 🤖 **AI-assisted development** (Claude Code, Cursor, ChatGPT, v0) → faster delivery, fewer bugs  
+- 📈 Analytics-driven: instrumented **100k+ daily events** with Mixpanel  
+- 🛠️ Led migrations (DB2/legacy → modern stacks) and mentored teams
 
-### 🎨 Frontend
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+## 🧠 My AI-Augmented Dev Workflow
+I treat AI like a **pair-programmer** to ship high-quality work today—not someday.
 
-### 🔨 Backend
+- **Spec → Code:** Claude Code / ChatGPT for RFCs, edge cases, tests  
+- **Code → Review:** Cursor for refactors, dead-code pruning, DX improvements  
+- **UI/UX:** Vercel v0 prompts for UI drafts, then hand-tuned with Tailwind + shadcn/ui  
+- **Data & Product:** Mixpanel event design, funnels, feature-flagged rollouts  
+- **Reliability:** AI-generated test scaffolds (Playwright/Vitest), contract tests for APIs
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+```ts
+type Marco = {
+  stack: "Next.js • React • TypeScript • Prisma • Supabase • Stripe";
+  aiTools: ["Claude Code", "Cursor", "ChatGPT", "Vercel v0"];
+  values: ["clean architecture", "measurable UX", "ship today"];
+};
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🧩 Selected Work
 
-### 📎 Herramientas
+<details>
+<summary><b>📦 Marapod (The Fizzy LLC) — Full-Stack Dev (2024–Now)</b></summary>
+- Multi-tenant PTA SaaS: **Next.js 15 App Router**, **Prisma**, **Supabase**, **Stripe Connect**
+- Secure onboarding, role-based access, audited actions, event-driven webhooks
+- AI reviews for architecture decisions → **~40% tech-debt reduction**
+</details>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBeaver-EE0000?style=for-the-badge&logo=dbeaver&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+<details>
+<summary><b>🏢 Jove — Full-Stack Dev (2022–2024)</b></summary>
+- Migrated to **Next.js**, improved TTFB/LCP, modularized design system  
+- Implemented **Mixpanel** with **100k+ daily events**
+- Scrum rituals, PR reviews, and progressive refactors
+</details>
+
+<details>
+<summary><b>🏦 Accenture Chile — Senior Analyst (2014–2022)</b></summary>
+- Led **core-banking migrations** for **Banco Itaú** & **BancoEstado**  
+- Coordinated **1,500+ code components**, mentored devs, ensured zero downtime
+</details>
+
+<details>
+<summary><b>🌐 Grupo Loang — Freelance WP Dev (2023–2024)</b></summary>
+- Delivered **70+ SME websites** (performance + SEO + accessibility)
+</details>
+
+---
+
+## 🛠️ Tech I Reach For First
+**Frontend:** Next.js, React, TypeScript, Tailwind, shadcn/ui  
+**Backend:** Node, Python, PostgreSQL, Supabase, Vercel, Stripe  
+**Ecosystem:** WordPress, PHP, COBOL  
+**AI & Product:** Claude, Cursor, ChatGPT, Mixpanel
+
+---
+
+## 🧪 Quality as a Habit
+- Vitest/Playwright tests, ESLint/Prettier, strict TS, CI checks  
+- Image optimization, RSC streaming, caching strategies, tracing  
+- JWT/session hardening, tenancy isolation, idempotent webhooks  
+
+---
+
+## 📊 Snapshot (Auto-generated)
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent">
+<br/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true">
+</div>
+
+---
+
+## 🧭 What I’m Open To
+- 🔨 Building or scaling **SaaS** (multi-tenant, subscriptions, marketplaces)  
+- 🧠 AI integrations that make real users faster and happier  
+- 📈 Product analytics setups (events, funnels, experiments)  
+- 🤝 Long-term collaborations where quality compounds
+
+---
+
+## 🌐 Languages
+- 🇪🇸 Spanish (Native) · 🇬🇧 English (C2)
+
+---
+
+## 📬 Contact
+- ✉️ **Email:** <a href="mailto:marco.alvarado.t@gmail.com">marco.alvarado.t@gmail.com</a>  
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/marcoalvaradot">marcoalvaradot</a>  
+- 🌐 **Site:** <a href="https://marqit.dev">marqit.dev</a>
+
+---
+
+<div align="center">
+<sub>“Great software feels invisible — only its impact is visible.”</sub>
+</div>
