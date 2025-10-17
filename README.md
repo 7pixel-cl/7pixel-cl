@@ -53,8 +53,6 @@ type Marco = {
 
 ---
 
----
-
 ## 🖼️ Portfolio — Spotlight: [ProfeIA](https://profeia.cl)
 <!--
 <div align="center">
@@ -109,9 +107,68 @@ It leverages AI feedback, adaptive quizzes, and analytics to personalize each te
     <img src="https://profeia.cl/wp-content/uploads/2024/03/mockup-profeia-home.webp" width="700" alt="ProfeIA Mockup" />
   </a>
 </div>
+-->
+
+## 🏞️ Portfolio — Highlight: [Campo Maitén](https://campomaiten.cl/)
+<!--
+<div align="center">
+  <a href="https://campomaiten.cl">
+    <img src="https://campomaiten.cl/wp-content/uploads/2024/03/logo.png" alt="Campo Maitén Logo" width="180" />
+  </a>
+</div>
+-->
+### 🌄 Campo Maitén — Premium Land & Turnkey Homes in Southern Chile
+
+**Overview**  
+[Campo Maitén](https://campomaiten.cl) is a high-end real estate development located in **Villarrica, Chile**, offering **5,000 m² rural plots** paired with modern, ready-to-build home models.  
+The project merges **nature, architecture, and investment security**, emphasizing sustainable living and legal transparency in one of Chile’s most desirable regions.
 
 ---
+
+### ⚙️ Core Features & Value Propositions
+
+| Feature | Description |
+|---|---|
+| 📐 **5,000 m² Plots + Modern Houses** | Spacious lots with contemporary architectural designs ready for immediate construction. |
+| 🏘 **Private Gated Community** | 24/7 security, controlled access, and a peaceful community atmosphere. |
+| 🏡 **Turnkey Delivery** | Full process managed — from purchase and permits to construction and delivery. |
+| 📜 **Legal Transparency** | Public deeds, title registration, and full documentation with notarial certification. |
+| 🌿 **Ecological Preservation** | 80% of native forest preserved to maintain environmental balance. |
+| 🚀 **Strategic Growth Zone** | Located in a high-demand area near Villarrica, offering long-term land value appreciation. |
+
+---
+
+### 🧠 My Role & Technical Contributions
+
+- Developed a **modern marketing site** in WordPress and Elementor with performance optimization and SEO best practices.  
+- Designed an **interactive map interface** to showcase available plots and their specific attributes.  
+- Created backend tools for **lot management, inquiries, and CRM integration**.  
+- Implemented **conversion tracking and analytics dashboards** to monitor visitor behavior and campaign performance.  
+- Enhanced UX through mobile-first layouts, fast image loading, and consistent brand identity.  
+
+---
+
+### 📸 Visual Previews
+<!--
+<div align="center">
+  <a href="https://campomaiten.cl">
+    <img src="https://campomaiten.cl/wp-content/uploads/2024/03/campo-maiten-hero.webp" alt="Campo Maitén – main landscape" width="700">
+  </a>
+</div>
 -->
+---
+
+### 💬 Impact & Reach
+
+- Increased **qualified lead generation** by simplifying contact and inquiry flows.  
+- Delivered a **high-performing website** optimized for international investors.  
+- Strengthened **brand credibility** through a cohesive digital presence that reflects the project’s premium character.  
+
+> “Campo Maitén combines natural beauty, investment confidence, and a modern lifestyle — all within reach of Villarrica’s lakes and volcanoes.”
+
+---
+
+<!-- End of Campo Maitén section -->
 
 ## 🧩 Selected Work
 
