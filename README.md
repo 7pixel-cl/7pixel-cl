@@ -53,6 +53,66 @@ type Marco = {
 
 ---
 
+---
+
+## 🖼️ Portfolio — Spotlight: [ProfeIA](https://profeia.cl)
+<!--
+<div align="center">
+  <a href="https://profeia.cl">
+    <img src="[[[https://profeia.cl/wp-content/uploads/2024/03/profeia-logo.svg](https://profeia.cl/_next/image?url=https%3A%2F%2Fprofe-ai.s3.us-east-2.amazonaws.com%2Fwebpage%2FProfe-AI-logo.png&w=640&q=75)](https://profeia.cl/_next/image?url=https%3A%2F%2Fprofe-ai.s3.us-east-2.amazonaws.com%2Fwebpage%2FProfe-AI-logo.png&w=640&q=75)](https://profeia.cl/_next/image?url=https%3A%2F%2Fprofe-ai.s3.us-east-2.amazonaws.com%2Fwebpage%2FProfe-AI-logo.png&w=640&q=75)" width="180" alt="ProfeIA Logo" />
+  </a>
+</div>
+-->
+### 🌐 ProfeIA — Preparación ECEP con Inteligencia Artificial
+
+**Overview**  
+[ProfeIA](https://profeia.cl) is an AI-driven SaaS platform that helps Chilean teachers prepare for the **ECEP (Evaluación de Conocimientos Específicos y Pedagógicos)**.  
+It leverages AI feedback, adaptive quizzes, and analytics to personalize each teacher’s study journey according to national standards (CPEIP / Marco para la Buena Enseñanza).
+
+---
+
+### ⚙️ Core Features
+
+| Area | Description |
+|------|--------------|
+| 🎯 **Feedback IA inmediato** | Delivers AI-generated, context-aware explanations per question, improving retention and confidence. |
+| 📚 **Contenido oficial** | Fully aligned with **Marco para la Buena Enseñanza** and CPEIP requirements. |
+| 🧩 **Aprendizaje multimodal** | Combines quizzes, audios, videos, and interactive summaries for better comprehension. |
+| 📊 **Análisis de progreso** | Real-time dashboards track strengths, weaknesses, and domain mastery. |
+| 📱 **Accesibilidad total** | Fully responsive and mobile-ready interface for anytime study. |
+
+---
+
+### 🧠 My Contribution
+
+- Architected the platform using **Next.js 15 (App Router)**, **Prisma**, and **Supabase**.  
+- Integrated **OpenAI APIs** and **Claude prompts** for adaptive pedagogical feedback.  
+- Designed UI system using **Tailwind CSS + shadcn/ui** with accessibility in mind.  
+- Implemented analytics via **Mixpanel** and structured event tracking.  
+- Built automated email notifications and secure user flows for teachers.
+
+---
+
+### 🌟 Impact
+
+- 85% user satisfaction and +15 ECEP score improvement (reported by early cohorts).  
+- Reduced onboarding time by 50% through simplified signup and guided flows.  
+- Over 2,000 Chilean teachers have accessed free learning resources since launch.  
+
+> “El feedback instantáneo me ayudó a identificar exactamente dónde necesitaba mejorar. Aprobé la ECEP en mi primer intento.”  
+> — *Docente usuaria de ProfeIA*
+
+---
+<!--
+<div align="center">
+  <a href="https://profeia.cl">
+    <img src="https://profeia.cl/wp-content/uploads/2024/03/mockup-profeia-home.webp" width="700" alt="ProfeIA Mockup" />
+  </a>
+</div>
+
+---
+-->
+
 ## 🧩 Selected Work
 
 <details>
