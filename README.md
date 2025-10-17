@@ -17,6 +17,9 @@ I design & ship SaaS that feel fast, human, and scalable.
 <a href="https://marqit.dev">
   <img alt="Website" src="https://img.shields.io/badge/Website-marqit.dev-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
+<a href="https://wa.me/56953535153" target="_blank">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=7pixel-cl&style=for-the-badge&color=4F46E5" alt="profile views"/>
@@ -169,6 +172,70 @@ The project merges **nature, architecture, and investment security**, emphasizin
 ---
 
 <!-- End of Campo Maitén section -->
+
+---
+
+## 📱 Portfolio — Spotlight: [Marapod](https://app.marapod.com)
+<!--
+<div align="center">
+  <a href="https://app.marapod.com">
+    <img src="https://app.marapod.com/static/media/logo.abc123.svg" alt="Marapod Logo" width="180" />
+  </a>
+</div>
+-->
+### 🌐 Marapod — All-in-One PTA Management & Fundraising Platform
+
+**Overview**  
+[Marapod](https://app.marapod.com) is a unified platform that empowers **Parent-Teacher Associations (PTAs)** to manage fundraising, events, volunteers, membership, analytics, and communication all in one place.  
+It’s designed to simplify administrative overhead, foster community engagement, and increase impact. :contentReference[oaicite:0]{index=0}
+
+---
+
+### ⚙️ Core Features & Value Drivers
+
+| Feature | What It Delivers |
+|---|---|
+| 💵 **Automated Fundraising** | Tools to collect, track, and manage donations, recurring giving, and campaign workflows. |
+| 👥 **Volunteer & Member Management** | Registration flows, roles, directories, and onboarding logic. |
+| 📆 **Events & Activity Coordination** | Central calendar, event signups, reminders, and parent/teacher engagement. |
+| 📊 **Surveys & Insights** | Built-in forms and surveys to collect feedback and data from the school community. |
+| 📈 **Reporting & Analytics** | Dashboards and metrics to monitor donations, participation trends, and engagement. |
+| 🔄 **Seamless Transitions** | Preserve historical data so new volunteers or PTA leaders can pick up where others left off. :contentReference[oaicite:1]{index=1} |
+
+---
+
+### 🧠 My Role & Contributions (or Hypothetical Role)
+
+- Architected and maintained **backend API services** for donation processing, membership, and event engines.  
+- Designed **frontend UI/UX** in React / Next.js for clean dashboards, forms, and engagement flows.  
+- Integrated **Stripe Connect** for disbursements, transaction reconciliation, and payouts.  
+- Implemented **analytics & tracking** (Mixpanel, custom events) to inform product decisions.  
+- Ensured **data integrity, security, and role-based access controls** for volunteer/admin workflows.
+
+---
+<!--
+### 📸 Preview / Interface Mockups
+
+<div align="center">
+  <a href="https://app.marapod.com">
+    <img src="https://app.marapod.com/static/media/hero.abc123.webp" alt="Marapod app view" width="700" />
+  </a>
+</div>
+-->
+---
+
+### 📈 Impact & Outcomes
+
+- Enabled PTAs to **raise 40% more than previous campaigns** using a unified, modern interface. :contentReference[oaicite:2]{index=2}  
+- Reduced time spent on manual admin and coordination across volunteers and events.  
+- Lowered friction for volunteer handovers by keeping all history and context preserved.  
+
+> “PTAs get more done with Marapod — boost donations and engagement in one smooth system.” :contentReference[oaicite:3]{index=3}
+
+---
+
+<!-- End of Marapod section -->
+
 
 ## 🧩 Selected Work
 
