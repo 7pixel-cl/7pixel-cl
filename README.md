@@ -19,7 +19,7 @@ I design & ship SaaS that feel fast, human, and scalable.
 </a>
 
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=4F46E5" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=7pixel-cl&style=for-the-badge&color=4F46E5" alt="profile views"/>
 
 </div>
 
@@ -99,10 +99,10 @@ type Marco = {
 
 ## 📊 Snapshot (Auto-generated)
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=7pixel-cl&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7pixel-cl&layout=compact&hide_border=true&theme=transparent">
 <br/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=7pixel-cl&theme=transparent&hide_border=true">
 </div>
 
 ---
