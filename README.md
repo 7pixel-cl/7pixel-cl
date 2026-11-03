@@ -12,12 +12,12 @@ I help founders and small product teams build web applications with authenticati
 
 | Project | What I built | Explore |
 | --- | --- | --- |
-| **ProfeIA** | A study platform for Chilean teachers: diagnostics, personalized study plans, spaced practice, and a Claude-powered tutor with response checks and fallback hints. **Next.js, TypeScript, Vercel AI SDK.** | [Website](https://profeia.cl) · [Application](https://app.profeia.cl) |
-| **Vytera** | A real estate CRM combining property inventory, contacts, pipelines, and messaging. Claude-powered classification and replies, Gemini File Search for document-grounded answers, and background processing. **Next.js, React, TypeScript, tRPC, PostgreSQL.** | [Website](https://www.vytera.cl) |
+| **ProfeIA** | A study platform for Chilean teachers: diagnostics, personalized study plans, spaced practice, and a Claude-powered tutor with response checks and fallback hints. **Next.js, TypeScript, Vercel AI SDK.** | [Website](https://profeia.cl) · [Application](https://app.profeia.cl) · [Case study](https://github.com/7pixel-cl/profeia-showcase) |
+| **Vytera** | A real estate CRM combining property inventory, contacts, pipelines, and messaging. Claude-powered classification and replies, Gemini File Search for document-grounded answers, and background processing. **Next.js, React, TypeScript, tRPC, PostgreSQL.** | [Website](https://www.vytera.cl) · [Case study](https://github.com/7pixel-cl/vytera-showcase) |
 | **Advena** | A collaborative sermon-writing workspace with rich-text editing, comments, authentication, and publishing. **Next.js, TypeScript, tRPC, Drizzle, PostgreSQL.** | [Public beta](https://live-sermon.vercel.app) |
 | **Campo Maitén** | A bilingual real estate website and focused lead-generation landing page. **Astro, React, Tailwind CSS.** | [Website](https://campomaiten.cl) |
 
-Some product source code is private. The links above demonstrate the products; public repositories below include integrations, experiments, and learning projects, and should be read in that context.
+Production source for these products remains private. The public ProfeIA and Vytera showcase repositories explain the work with approved imagery and case studies. Older coursework and starter copies are archived; public code samples should be read in their stated context.
 
 ## Professional experience
 
